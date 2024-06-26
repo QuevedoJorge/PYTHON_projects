@@ -1,4 +1,4 @@
-name: Run Python script daily
+name: Run Rain Alert script daily
 
 on:
   schedule:
